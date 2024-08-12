@@ -1,0 +1,8 @@
+pyspark==3.4.0
+snowflake-connector-python==3.10.1
+pandas
+numpy
+kaggle
+prefect
+python-dotenv
+snowflake-connector-python
